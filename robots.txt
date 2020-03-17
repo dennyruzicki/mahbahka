@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iesiaseep.ari.nz/sitemap.xml
